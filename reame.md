@@ -1,1 +1,0 @@
-codecov repository: https://codecov.io/gh/codecov/example-python
